@@ -3,6 +3,6 @@
 
 just save the file as index.html and start 
 
-you will be controlling the left pannel and computer will create the right pannel.
+you will be controlling the left pannel with your mouse and computer will handle the right pannel with basic AI.
 
-Have Fun.
+Lets see who wins.
